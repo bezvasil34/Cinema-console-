@@ -7,6 +7,7 @@ public class Cinema {
 	    Time close;
 
 	    
+	    
 	    public Cinema() {
 	        daysScheduleMap = new TreeMap<>();
 	        open = new Time();
