@@ -17,6 +17,7 @@ public class Core {
 //	        System.out.println(selectMovie());
 	        while (true) {
 
+	        	
 	            showMenu();
 	            executeCommand(getIntCommand());
 	        }

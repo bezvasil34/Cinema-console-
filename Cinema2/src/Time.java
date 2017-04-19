@@ -16,6 +16,7 @@ public class Time implements Comparable<Time> {
 		return hour;
 	}
 
+	
 	private void setHour(int hour) {
 		if (hour >= 0 && hour < 24)
 			this.hour = hour;

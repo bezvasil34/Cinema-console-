@@ -15,6 +15,7 @@ public class Movie {
 
 	    }
 
+	    
 	    @Override
 	    public int hashCode() {
 	        int result = title != null ? title.hashCode() : 0;

@@ -8,6 +8,7 @@ public class Schedule {
 	        seances = new HashSet<>();
 
 	    }
+	    
 
 	    public boolean checkSeanseSchedule(Seance seance) {
 	        for (Seance s : seances)

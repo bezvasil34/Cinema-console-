@@ -14,6 +14,7 @@ public class Seance {
 	        );
 	    }
 
+	    
 	    public Movie getMovie() {
 	        return movie;
 	    }
